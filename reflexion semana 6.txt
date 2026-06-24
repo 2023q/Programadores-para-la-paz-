@@ -1,0 +1,3 @@
+REFLEXIÓN SEMANA 6
+
+Durante esta semana aprendí cómo recibir información enviada por los usuarios mediante peticiones POST utilizando Node.js y Express. También comprendí la importancia del formato JSON para organizar y transmitir datos entre aplicaciones. El uso de express.json() permite que el servidor interprete correctamente la información enviada por el cliente, mientras que req.body facilita el acceso a esos datos dentro del código. Estos conceptos son fundamentales para desarrollar aplicaciones web dinámicas, formularios y servicios que requieren interacción con los usuarios. Gracias a esta práctica entendí mejor cómo se intercambian datos entre cliente y servidor y cómo procesarlos de manera eficiente.

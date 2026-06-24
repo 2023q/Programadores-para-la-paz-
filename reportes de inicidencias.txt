@@ -1,0 +1,16 @@
+REPORTE DE INCIDENCIA
+
+Nombre del usuario:
+Carlos Rodríguez
+
+Problema:
+Error de acceso al sistema
+
+Descripción:
+El usuario intenta iniciar sesión pero recibe un mensaje de error indicando que las credenciales no son válidas, aunque fueron verificadas previamente.
+
+Fecha:
+06/06/2026
+
+Estado:
+Pendiente de revisión

@@ -1,0 +1,21 @@
+PREGUNTAS SEMANA 6
+
+1. ¿Qué es JSON?
+Respuesta:
+JSON (JavaScript Object Notation) es un formato de texto utilizado para almacenar e intercambiar datos de manera organizada.
+
+2. ¿Para qué sirve express.json() en Express?
+Respuesta:
+Sirve para que el servidor pueda leer y procesar datos enviados en formato JSON dentro de las solicitudes HTTP.
+
+3. ¿Qué representa req.body?
+Respuesta:
+Es un objeto que contiene los datos enviados por el cliente en una petición HTTP.
+
+4. ¿Qué diferencia existe entre GET y POST?
+Respuesta:
+GET se utiliza para consultar información y POST para enviar información al servidor.
+
+5. ¿Por qué es importante validar los datos recibidos?
+Respuesta:
+Porque ayuda a evitar errores, mejorar la seguridad y garantizar que la información recibida sea correcta.
